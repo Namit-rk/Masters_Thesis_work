@@ -1,6 +1,6 @@
 # Reservoir Computing Algorithms for Nonlinear Dynamics and Chaotic Data
 
-Welcome to the **Reservoir Computing Repository**, a comprehensive collection of various reservoir computing algorithms designed to address a range of problems in nonlinear dynamics and chaotic data analysis. This repository serves as a valuable resource for researchers, practitioners, and enthusiasts interested in exploring the capabilities of reservoir computing (RC) in modeling complex systems.
+Welcome to the **Reservoir Computing Repository**! This repository contains the core reservoir computing algorithms utilized in my Master's research thesis on nonlinear dynamics at IIT Indore. It serves as a valuable resource for researchers, practitioners, and enthusiasts looking to explore the capabilities of reservoir computing (RC) in modeling complex systems.
 
 ## Overview
 
@@ -9,16 +9,12 @@ Reservoir Computing is a powerful machine learning paradigm that excels in captu
 ### Key Features
 
 - **Diverse Algorithms:** This repository contains implementations of various reservoir computing algorithms, including:
-  - Single Node Reservoir Computing (SNRC)
-  - Echo State Networks (ESN)
-  - Liquid State Machines (LSM)
+  - Normal Reservoir Computing (RC)
   - Parameter-aware Reservoir Computing
 
 - **Applications:** The algorithms showcased in this repository have been applied to a wide range of problems, including:
   - Time series prediction of chaotic systems
   - Modeling and forecasting in nonlinear dynamics
-  - Anomaly detection in complex data streams
-  - Control of chaotic systems
 
 - **Documentation and Examples:** Each algorithm is accompanied by detailed documentation, including explanations of the underlying theory, code examples, and instructions for use. This makes it easy for users to implement and experiment with different RC approaches.
 
