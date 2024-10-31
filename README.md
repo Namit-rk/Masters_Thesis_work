@@ -13,6 +13,7 @@ Reservoir Computing is a powerful machine learning paradigm that excels in captu
   - Parameter-aware Reservoir Computing
 
 - **Applications:** The algorithms showcased in this repository have been applied to a wide range of problems, including:
+  - Methods to solve and obtain data from non linear dynamical systems, and its explanation
   - Time series prediction of chaotic systems
   - Modeling and forecasting in nonlinear dynamics
 
