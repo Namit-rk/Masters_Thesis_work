@@ -6,7 +6,7 @@ This repository contains the code and supplementary material for my **Master’s
 
 ---
 
-## 🧪 Overview
+## Overview
 
 In this work, I developed a custom **Parameter-Aware Reservoir Computing (PARASPY)** framework that learns to **predict the future behavior** of different nonlinear systems **across parameter values**—not just at fixed settings.
 
@@ -32,12 +32,12 @@ This suggests that the **reservoir model internalizes the bifurcation structure*
 
 While this repository shows how to use the two main frameworks developed:
 
-- 🧠 PARASPY (Parameter-Aware Reservoir Computing)
+- PARASPY (Parameter-Aware Reservoir Computing)
 
-- 📈 Eigenvalue Analysis & Jacobian Framework
+- Eigenvalue Analysis & Jacobian Framework
 
 …the core implementation code of these frameworks is not included due to sharing restrictions.
 
-🔎 However, their usage and behavior are clearly demonstrated in the included notebooks, and all results can be understood in context via the thesis.
+However, their usage and behavior are clearly demonstrated in the included notebooks, and all results can be understood in context via the thesis.
 
 Thank you for visiting, and happy coding!
